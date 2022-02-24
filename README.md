@@ -52,7 +52,7 @@ VER COMPLETO EN: <a href="https://balsamiq.cloud/s46ct8p/p3wj5n/r27FD">wireframe
 
 #### Low fidelity wireframes (diagramas de baja fidelidad) - Desktop
 * Dibujos a mano alzada <br><br>
-<img src="wireframes/desktop-wireframes.jpeg" width = "600" height = "350" /><br><br>
+<img src="wireframes/desktop-wireframes.jpeg" width = "600" height = "263" /><br><br>
 * Utilizando herramienta Balsamiq
 Acceso: <a href="">wireframes balsamiq</a>
 
