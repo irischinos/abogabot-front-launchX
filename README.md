@@ -44,10 +44,10 @@ El archivo en .jpeg se encuentra arriba ↑↑
 
 ### 6. Wireframes UX
 #### Low fidelity wireframes (diagramas de baja fidelidad) - Mobile
-* Dibujos a mano alzada
-<img src="wireframes/mobile-wireframes.jpeg" width = "60" height = "60" /><br>
-* Utilizando herramienta Balsamiq
-<img src="wireframes/balsamiq-mobile.png" width = "60" height = "60" /><br>
+* Dibujos a mano alzada <br>
+<img src="wireframes/mobile-wireframes.jpeg" width = "100" height = "100" /><br>
+* Utilizando herramienta Balsamiq<br>
+<img src="wireframes/balsamiq-mobile.PNG" width = "100" height = "100" /><br>
 Acceso: <a href="https://balsamiq.cloud/s46ct8p/p3wj5n/r27FD">wireframes balsamiq</a>
 
 #### Low fidelity wireframes (diagramas de baja fidelidad) - Desktop
