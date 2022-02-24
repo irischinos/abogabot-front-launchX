@@ -42,7 +42,19 @@ El archivo en .jpeg se encuentra arriba ↑↑
 <img src="historias-de-usuario/HU5.png" />
 <img src="historias-de-usuario/HU6.png" />
 
-### 6. Wireframes
+### 6. Wireframes UX
+#### Low fidelity wireframes (diagramas de baja fidelidad) - Mobile
+* Dibujos a mano alzada
+<img src="wireframes/mobile-wireframes.jpeg" width = "60" height = "60" /><br>
+* Utilizando herramienta Balsamiq
+<img src="wireframes/balsamiq-mobile.png" width = "60" height = "60" /><br>
+Acceso: <a href="https://balsamiq.cloud/s46ct8p/p3wj5n/r27FD">wireframes balsamiq</a>
+
+#### Low fidelity wireframes (diagramas de baja fidelidad) - Desktop
+* Dibujos a mano alzada
+<img src="wireframes/desktop-wireframes.jpeg" width = "60" height = "60" />
+* Utilizando herramienta Balsamiq
+Acceso: <a href="">wireframes balsamiq</a>
 
 
 ### 7. Diseño de la interfaz de usuario
