@@ -35,12 +35,12 @@ El archivo en .jpeg se encuentra arriba ↑↑
 
 ### 5. Historias de usuario
   
-<img src="historias-de-usuario/HU1.png" />
-<img src="historias-de-usuario/HU2.png" />
-<img src="historias-de-usuario/HU3.png" />
-<img src="historias-de-usuario/HU4.png" />
-<img src="historias-de-usuario/HU5.png" />
-<img src="historias-de-usuario/HU6.png" />
+<img src="historias-de-usuario/HU1.png" width = "500" height = "500" />
+<img src="historias-de-usuario/HU2.png" width = "500" height = "500" />
+<img src="historias-de-usuario/HU3.png" width = "500" height = "500" />
+<img src="historias-de-usuario/HU4.png" width = "500" height = "500" />
+<img src="historias-de-usuario/HU5.png" width = "500" height = "500" />
+<img src="historias-de-usuario/HU6.png" width = "500" height = "500" />
 
 ### 6. Wireframes UX
 #### Low fidelity wireframes (diagramas de baja fidelidad) - Mobile
