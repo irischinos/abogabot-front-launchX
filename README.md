@@ -56,5 +56,10 @@ VER COMPLETO EN: <a href="https://balsamiq.cloud/s46ct8p/p3wj5n/r27FD">wireframe
 * Utilizando herramienta Balsamiq
 Acceso: <a href="">wireframes balsamiq</a>
 
-
 ### 7. Diseño de la interfaz de usuario
+
+Diseñado con figma <br><br>
+
+<img src="wireframes/ui-figma.png" width = "500" height = "500" /><br><br>
+
+VER COMPLETO EN : <a href="https://www.figma.com/proto/51O7tC6NS83pt6aJtRRTzT/Abogabot?node-id=17%3A107&scaling=scale-down&page-id=16%3A87">Figma UI design</a>
