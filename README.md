@@ -60,6 +60,6 @@ Acceso: <a href="">wireframes balsamiq</a>
 
 Diseñado con figma <br><br>
 
-<img src="wireframes/ui-figma.PNG" width = "500" height = "500" /><br><br>
+<img src="wireframes/ui-figma.PNG" width = "500" height = "900" /><br><br>
 
 VER COMPLETO EN : <a href="https://www.figma.com/proto/51O7tC6NS83pt6aJtRRTzT/Abogabot?node-id=17%3A107&scaling=scale-down&page-id=16%3A87">Figma UI design</a>
